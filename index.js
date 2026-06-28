@@ -85,7 +85,7 @@ if (welcomeChannel) {
 
     const welcomeEmbed = new EmbedBuilder()
         .setColor(0xFFD700)
-        .setTitle("👋 Добро пожаловать в официальный Discord-сервер Союза UMO!")
+        .setTitle("👋 Добро пожаловать в официальный Discord-сервер семьи Empire!")
         .setDescription(
             `Добро пожаловать, ${member}!\n\n` +
             "Мы рады видеть тебя в нашем сообществе."
